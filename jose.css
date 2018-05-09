@@ -1,29 +1,31 @@
 p {
     color: black;
   }
-  .lobster {
+.lobster {
     font-family: Lobster, Monospace;
   }
-  
-  body {
+.ubuntu {
+  font-family: ubuntu, Monospace;
+}
+body {
     background-color: white;
   }
   
-  #main-title{
+#main-title{
     text-align: center;
   }
   
-  #title-background{
+#title-background{
     background-color: #dbddb1;
     padding-top: 20px;
     padding-bottom: 20px;
   }
   
-  #body-bg{
+#body-bg{
     background-color: #f5f7d7;
   }
   
-  .button {
+.button {
     border : 2px;
     border-style: outset;
   }
