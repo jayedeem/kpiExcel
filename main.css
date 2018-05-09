@@ -22,3 +22,23 @@ body {
 #card {
     align-content: center;
 }
+/* .container  {
+    display: flex;
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+  }
+  
+  .container .row {
+    margin: 0 auto;
+  } */
+  /* .valign-wrapper {
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-align-items: center;
+        -ms-flex-align: center;
+            align-items: center;
+  } */
