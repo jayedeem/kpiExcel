@@ -2,14 +2,14 @@
 /* main html */
 
 body {
-    background-color: #663399;
+    background-color:white;
     font-family: 'Abel', Monospace;
     color: white;
     font-size:16px;
 
 }
 
-#ultra-purple {
+.ultra-purple {
     
 background-color: #663399;
 }
@@ -17,5 +17,6 @@ background-color: #663399;
 
 #main-title {
     text-align: center;
+    color:#663399;
 }
 
