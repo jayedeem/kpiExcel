@@ -1,0 +1,22 @@
+{
+  "name": "kpiexcel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jayedeem/kpiExcel.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jayedeem/kpiExcel/issues"
+  },
+  "homepage": "https://github.com/jayedeem/kpiExcel#readme",
+  "dependencies": {
+    "materialize-css": "^1.0.0-rc.1"
+  }
+}

@@ -4,9 +4,17 @@
 body {
     background-color: #663399;
     font-family: 'Abel', Monospace;
+    color: white;
+    font-size:16px;
+
 }
 
-.ultra-purple {
-    color: #663399;
-  }
+/* .ultra-purple {
     
+
+}
+     */
+
+#main-title {
+    text-align: center;
+}
