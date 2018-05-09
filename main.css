@@ -2,6 +2,11 @@
 /* main html */
 
 body {
-    background-color: purple;
+    background-color: #663399;
     font-family: 'Abel', Monospace;
 }
+
+.ultra-purple {
+    color: #663399;
+  }
+    
