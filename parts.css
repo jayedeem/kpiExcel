@@ -1,0 +1,31 @@
+
+h1 {
+  
+    font-family: 'marvel';
+    font-size: 30px;
+  }
+  
+  body {
+  
+    background-color:  #404a5b;
+    color: white;
+    font-family: 'marvel';
+    /* font-family: monospace; */
+    font-size: 15px;
+  }
+  
+  h3 {
+    text-align: left;
+    color: #8cb0ea;
+    font-size: 15px;
+  }
+  
+  .title {
+  text-align: center;
+  
+  }
+  .drop {
+  text-shadow: 2px 2px 4px black;
+  
+  
+  }
