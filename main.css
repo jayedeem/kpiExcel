@@ -9,15 +9,15 @@ body {
     display: flex;
     min-height: 100vh;
     flex-direction: column;
-    flex: 1 0 auto;
+    
 
 }
 
-.ultra-purple {
+/* .ultra-purple {
     
 background-color: #663399;
 }
-    
+     */
 
 #main-title {
     text-align: center;
@@ -25,7 +25,23 @@ background-color: #663399;
 }
 
 
+/* footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem; 
+  background-color: #efefef;
+  text-align: center;
+} */
 
   main {
     flex: 1 0 auto;
+    /* background-color:white;
+    font-family: 'Abel', Monospace;
+    color: white;
+    font-size:16px;
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column; */
   }

@@ -10,24 +10,29 @@
     <link href="https://fonts.googleapis.com/css?family=Abel" rel="stylesheet">
     <link type="text/css" rel="stylesheet" href="node_modules\materialize-css\dist\css\materialize.min.css"  media="screen,projection"/>
     <!-- <link type="text/css" rel="stylesheet" href="node_modules\materialize-css\dist\css\materialize.css"  media="screen,projection"/> -->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
 
 
 </head>
 <main>
     
 
-  
+  <!-- Header Goes here -->
 
     <h1 class="deep-purple-text center-align">2018 KPI</h1>
    
+    <!-- Card content -->
 
     <div class="container">
          <div class="row valign-wrapper">
         <div class="col s6 offset-s3 valign">
-          <div class="card purple darken-3">
+          <div class="card-panel purple darken-3 medium">
             <div class="card-content white-text">
+              
               <span class="card-title center-align"><h2>Ultra TV Excel KPIs</h1></span>
-              <h5>Since we decided that typing out our KPI was boring, we decided to make things more interesting.</h5>
+                <span class="white-text" style="font-size:25px">Since we decided that typing out our KPI was boring, we decided to make things more interesting.</span>
+           
               </div>
                       
 
@@ -37,24 +42,30 @@
         </div>
       </div>
     </div>
+    <!-- container/card ends here -->
     <div class="center-align">
         
-              <a class="waves-effect waves-light btn-large center-align purple darken-3" href="drew.html"><i class="material-icons left">Drew's</i>KPI</a>
-        <a class="waves-effect waves-light btn-large purple darken-3" href="jose.html"><i class="material-icons left">Jose's</i>KPI</a>
+              <a class="waves-effect waves-light btn-large center-align purple darken-3" href="drew.html"><i class="material-icons left">subdirectory_arrow_left</i>Drew's KPI</a>
+        <a class="waves-effect waves-light btn-large purple darken-3" href="jose.html"><i class="material-icons right">subdirectory_arrow_right</i>Jose's KPI</a>
         
       </div> 
+      <div style="height:50px">
+
+      </div>
     
       <script type="text/javascript" src="node_modules\materialize-css\dist\js\materialize.min.js"></script>
 
     </main>
-<footer class="page-footer">
+
+    <!-- footer begins -->
+<footer class="page-footer footer-fixed purple darken-3" >
   <div class="container">
     <div class="row">
-      <div class="col l6 s12">
-        <h5 class="white-text">Footer Content</h5>
-        <p class="grey-text text-lighten-4">You can use rows and columns here to organize your footer content.</p>
+      <div class="col l6 s12 m6">
+        <h5 class="white-text">About us.</h5>
+        <span class="grey-text text-lighten-4">Thanos will grant you passage!</span>
       </div>
-      <div class="col l4 offset-l2 s12">
+      <!-- <div class="col l4 offset-l2 s12">
         <h5 class="white-text">Links</h5>
         <ul>
           <li><a class="grey-text text-lighten-3" href="#!">Link 1</a></li>
@@ -62,13 +73,19 @@
           <li><a class="grey-text text-lighten-3" href="#!">Link 3</a></li>
           <li><a class="grey-text text-lighten-3" href="#!">Link 4</a></li>
         </ul>
-      </div>
+      </div> -->
     </div>
   </div>
-  <div class="footer-copyright">
+  <div class="footer-copyright purple darken-3">
     <div class="container">
-    © 2018
-    <a class="grey-text text-lighten-4 right" href="#!">More Links</a>
+        <span>Copyright ©
+            <script type="text/javascript">
+              document.write(new Date().getFullYear());
+            </script> <a class="grey-text text-lighten-2">jr.Dev.ops</a> </span>
+          <span class="right hide-on-small-only"> Design and Developed by <a class="grey-text text-lighten-2">DC</a></span>
+        </div>
+
+    
     </div>
   </div>
 </footer>
