@@ -12,11 +12,10 @@ body {
     
 
 }
-
 .parallax-container {
-  height: 5000px;
-}
-    
+  height: 250px;
+} 
+  
 /* .ultra-purple {
     
 background-color: #663399;
@@ -41,11 +40,5 @@ background-color: #663399;
 
   main {
     flex: 1 0 auto;
-    /* background-color:white;
-    font-family: 'Abel', Monospace;
-    color: white;
-    font-size:16px;
-    display: flex;
-    min-height: 100vh;
-    flex-direction: column; */
+  
   }
