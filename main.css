@@ -2,9 +2,9 @@
 /* main html */
 
 body {
-    background-color:white;
+    /* background-color:white; */
     font-family: 'Abel', Monospace;
-    color: white;
+    /* color: white; */
     font-size:16px;
     display: flex;
     min-height: 100vh;
@@ -26,7 +26,13 @@ background-color: #663399;
     text-align: center;
     color:#663399;
 }
-
+/* .collapsible-header {
+  line-height: 1.5rem;
+  padding: 1rem;
+} */
+.collapsible {
+  margin-left:300px;
+}
 
 /* footer {
   position: absolute;
@@ -42,3 +48,5 @@ background-color: #663399;
     flex: 1 0 auto;
   
   }
+
+  
