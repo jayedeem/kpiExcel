@@ -13,6 +13,10 @@ body {
 
 }
 
+.parallax-container {
+  height: 5000px;
+}
+    
 /* .ultra-purple {
     
 background-color: #663399;
