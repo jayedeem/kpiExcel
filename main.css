@@ -30,9 +30,11 @@ background-color: #663399;
   line-height: 1.5rem;
   padding: 1rem;
 } */
-.collapsible {
-  margin-left:300px;
-}
+/* .collapsible {
+  margin: 0 auto;
+  /* max-width: 180px; */
+  width: 100%;
+} */
 
 /* footer {
   position: absolute;
